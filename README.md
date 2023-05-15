@@ -1,52 +1,14 @@
-#  why this project and what problem does it solve >???
-Carpooling System is an automated system which reduces the misery of travellers and makes
-them find cars in short period of time. Carpooling is an application of finding car in which
-drivers who are traveling to work alone can ask for fellow passengers through our application.
-For those who use public-transport system to go to work daily can use this application to find
-drivers who are traveling to the same destination in a short path. It provides with a simple
-riding platform between the car owner and car user. This project enables users to access
-mobility assets own by others exactly when they need. It shows a medium for available cars
-to pick up them on the interest of car owner with time and capacity. This project aims at
-creation of a Car-pooling System
+#  CARPOOLING - A Safe and Convenient Carpooling Solution
+Daily commutes can be a real struggle due to traffic congestion and expensive fuel prices. Carpooling has emerged as a potential solution to ease the burden on our roads. However, current ride-sharing services like OLA and Uber have their limitations that hinder their effectiveness.
 
+Introducing the Carpooling System, a game-changing platform that offers a safe and convenient alternative to traditional ride-sharing. By cutting out the middlemen, this innovative system reduces costly fees and provides clear information about the carpooling process. Safety is a top priority, addressing concerns about the security of both drivers and passengers.
 
-There is an acute problem of traffic on roads these days and the increasing fuel prices add to
-the misery of daily users of personal vehicles. Also, the use of vehicles causes pollution 
-which has adverse effects. Carpooling is a solution but issues like security and trust come 
-into the picture.
- Can this problem be solved?
- A solution to this problem is a mobile-based Carpool system. The Carpool system would
-enable its user a safe and secure way to share cars. This could include both short daily 
-journeys such as going to the workplace within the city and also long inter-city trips 
-specially designed for students.
-The current ridesharing systems like Uber and Ola have many loopholes due to the 
-centralized approach to manage business operations. These are huge markets that are only 
-going to get bigger with time, as more users become comfortable with the idea of getting 
-cabs to their location with the help of their mobile phones. However, these centralized 
-system faces problems like
-• High fees due to intermediaries.
-• Lack of transparency.
-• Lack of safety standards
+With our Carpooling System, you can enjoy hassle-free rides while contributing to reduced traffic, lower fuel consumption, and a greener environment. Join us in embracing this secure and efficient way of commuting, as we revolutionize the way we travel from one place to another.
 
-# what our application do ?? and what is its use cases ?
-There is an acute problem of traffic on roads these days and the increasing fuel prices add to
-the misery of daily users of personal vehicles. Also, the use of vehicles causes pollution 
-which has adverse effects. Carpooling is a solution but issues like security and trust come 
-into the picture.
- Can this problem be solved?
- A solution to this problem is a mobile-based Carpool system. The Carpool system would
-enable its user a safe and secure way to share cars. This could include both short daily 
-journeys such as going to the workplace within the city and also long inter-city trips 
-specially designed for students.
-The current ridesharing systems like Uber and Ola have many loopholes due to the 
-centralized approach to manage business operations. These are huge markets that are only 
-going to get bigger with time, as more users become comfortable with the idea of getting 
-cabs to their location with the help of their mobile phones. However, these centralized 
-system faces problems like
-• High fees due to intermediaries.
-• Lack of transparency.
-• Lack of safety standards
-
+![Screenshot (1)](https://github.com/anshumagahlot22/Car-Pooling/assets/98377176/c76f3bf8-099e-4e79-87f4-4578cefcfecf)
+![Screenshot (3)](https://github.com/anshumagahlot22/Car-Pooling/assets/98377176/7e9836e7-1e2e-4758-b138-4a6098bde539)
+![Screenshot (4)](https://github.com/anshumagahlot22/Car-Pooling/assets/98377176/429126bf-1f95-405c-95e1-8267ce0987bc)
+![Screenshot (6)](https://github.com/anshumagahlot22/Car-Pooling/assets/98377176/67e93bd2-82bc-46bf-b7e8-cba334c5f0e7)
 
 # Getting Started with Create React App and Redux
 
